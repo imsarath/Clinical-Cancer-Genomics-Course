@@ -1,12 +1,12 @@
 # Clinical Cancer Genomics
 
-Course number -	5534
-Programme -	Tumörbiologi och onkologi (FoTO)
-Language	- English
-Credits -	1.5
-Date -	2022-01-24 -- 2022-01-28
-Responsible KI department - 	Institutionen för medicinsk epidemiologi och biostatistik
-Specific entry requirements -	Doktorander eller disputerade
+* Course number -	5534
+* Programme -	Tumörbiologi och onkologi (FoTO)
+* Language	- English
+* Credits -	1.5
+* Date -	2022-01-24 -- 2022-01-28
+* Responsible KI department - 	Institutionen för medicinsk epidemiologi och biostatistik
+* Specific entry requirements -	Doktorander eller disputerade
 
 ### Purpose of the course	
 
